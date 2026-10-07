@@ -1,3 +1,3 @@
 # StopWatch
-#Integrantes:
-#Miguel Lemus, Carlos Cabarcas, Carlos Espinosa
+Integrantes:
+Miguel Lemus, Carlos Cabarcas, Carlos Espinosa
